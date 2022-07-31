@@ -1,0 +1,27 @@
+.card_desc_cover{
+    padding-left: 12px;
+    padding-right: 12px;
+   height: 237px;
+   padding-top: 1%;
+}
+.card_desc_h3{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 16px;
+    line-height: 120%;
+    font-family:sans-serif;
+    font-weight: bold;
+}
+.card_desc_p{
+    line-height: 120%;
+     font-size: 14px;
+    font-family:sans-serif; 
+    color: rgb(94, 96, 97);
+}
+
+.card_desc_link{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+font-size: 20px;
+margin-left: 50%;
+}

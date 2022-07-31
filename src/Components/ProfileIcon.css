@@ -1,0 +1,25 @@
+.profileDiv{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15%;
+   
+}
+.profileImg{
+width: 48px;
+height: 48px;
+border-radius: 50%;
+}
+.fireIcon{
+    width: 30px;
+    height: 30px;
+}
+
+@media screen and (max-width: 700px) {
+    .profileDiv{
+     position: absolute;
+     right: 4%;
+    }
+  }

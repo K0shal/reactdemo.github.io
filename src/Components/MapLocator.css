@@ -1,0 +1,17 @@
+.map{ 
+    width:50vw;
+    height:60vh;
+    margin:auto;
+    margin-top:10vh;margin-bottom:10vh
+}
+
+@media screen and (max-width: 700px) {
+    .map{
+       position: absolute;
+        width: 90%;
+        top:65vh;
+        left:5%;
+        margin-bottom: 10px;
+    } 
+    
+  }

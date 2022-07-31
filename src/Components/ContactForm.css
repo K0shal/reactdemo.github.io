@@ -1,0 +1,47 @@
+.contactForm{
+   margin: auto;
+   text-align: center;
+    width: 80%;
+    height: 50vh;
+}
+.contactForm label{
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin-right: 1%;
+}
+.contactForm input{
+    width: 30%;
+    height: 10%;
+
+}
+.contactForm input[type=submit]{
+    width: fit-content;
+    height: fit-content;
+    padding: 1% 2% 1% 2%;
+    background-color: black;
+    color: white;
+    font-size: 100%;
+    font-family: sans-serif;
+
+}
+.contactForm textarea{
+    width: 30%;
+    height: 49%;
+    margin-left: 1.4%;
+    margin-top: 1%;
+    vertical-align:middle;
+}
+
+@media screen and (max-width:700px){
+
+    .contactForm input{
+    
+      width: 100%;
+      
+    }
+    .contactForm textarea{
+        width: 100%;
+    }
+    
+    
+    }

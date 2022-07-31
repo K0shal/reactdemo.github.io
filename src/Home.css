@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cardContainer{
+   display: flex;
+  flex-wrap: wrap;
+  gap: 1%;
+  height: fit-content;
+  width: 90%;
+margin: auto;
+}
+@media screen and (max-width:700px){
+
+.cardContainer{
+  flex-direction: column;
+  width: 100%;
+  gap: 10px;
+}
+
+
+}
