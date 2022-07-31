@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactdemo.github.io/static/css/main.96bfe0a2.css",
+    "main.js": "/reactdemo.github.io/static/js/main.b2e0d5e1.js",
+    "index.html": "/reactdemo.github.io/index.html",
+    "main.96bfe0a2.css.map": "/reactdemo.github.io/static/css/main.96bfe0a2.css.map",
+    "main.b2e0d5e1.js.map": "/reactdemo.github.io/static/js/main.b2e0d5e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96bfe0a2.css",
+    "static/js/main.b2e0d5e1.js"
+  ]
+}
